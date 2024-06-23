@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.card-design {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 260px;
+  background-color: #475569;
+  border: 1px solid #ffffff33;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 10px;
+}
+.card-img {
+  height: 90px;
+  width: 80px;
+}
+.card-team-name {
+  color: #ffffff;
+  font-family: 'bree serif';
+  font-size: 18px;
+  text-align: center;
+}
